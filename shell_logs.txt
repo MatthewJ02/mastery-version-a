@@ -1,0 +1,500 @@
+   22  make cobra
+   23  make nani
+   24  make cobra
+   25  make lilo
+   26  gdb bin/second_trie
+   27  make lilo
+   28  gdb bin/second_trie
+   29  make cobra
+   30  make nani
+   31  make cobra
+   32  make lilo
+   33  gdb bin/second_trie
+   34  make cobra
+   35  make nani
+   36  make cobra
+   37  make cobra
+   38  make stitch
+   39  bin/second_trie -w testcases/dinosaurs.in
+   40  trie_ref -w testcases/dinosaurs.in
+   41  make cobra
+   42  make nani
+   43  make cobra
+   44  make nani
+   45  make cobra
+   46  make nani
+   47  make cobra
+   48  make nani
+   49  make nani
+   50  make cobra
+   51  make nani
+   52  history > shell_logs.txt
+   53  git add .
+   54  git commit -m "Finished"
+   55  git push
+   56  cd ..
+   57  rm -rf mastery-version-alpha
+   58  make nalo
+   59  make tamatoa
+   60  make nalo
+   61  make maui
+   62  gdb bin/second_trie
+   63  make nalo
+   64  make tamatoa
+   65  history > shell_logs.txt
+   66  git add .
+   67  git commit -m "Finished"
+   68  git push
+   69  cd ..
+   70  rm -rf mastery-version-beta
+   71  git clone git@github.com:CS429-SP2025/mastery-version-beta.git
+   72  git clone git@github.com:MatthewJ02/mastery-version-a.git
+   73  touch ~/.gdbinit
+   74  echo "set history save on" > .gdbinit
+   75  cat .gdbinit
+   76  make clean
+   77  make check
+   78  make clean
+   79  make debug
+   80  gdb mini_ci
+   81  make clean
+   82  make check
+   83  make clean
+   84  make check
+   85  make debuig
+   86  make debug]
+   87  make debug
+   88  gdb mini_ci
+   89  make clean
+   90  make check
+   91  history > shell_logs.txt
+   92  touch gdb_logs.txt
+   93  gdb
+   94  git add .
+   95  git commit -m "Finished"
+   96  git pusb
+   97  git push
+   98  cd ..
+   99  rm -rf mastery-version-a
+  100  touch .gdbinir
+  101  rm -rf .gdbinir
+  102  ls
+  103  ls -a
+  104  touch .gdbinit
+  105  ls -a
+  106  echo "set history save on" > .gdbinit
+  107  cat .gdbinit
+  108  git clone git@github.com:MatthewJ02/mastery-version-b.git
+  109  gdb mini_ci
+  110  make cleaen
+  111  make clean
+  112  make debug
+  113  gdb mini_ci
+  114  make debug
+  115  gdb mini_ci
+  116  make clean
+  117  make comp
+  118  make check
+  119  make clean
+  120  make week3
+  121  bin/test-csim
+  122  bin.test-se -h
+  123  bin/test-se -h
+  124  bin/test-se -w 3 -v 3
+  125  make clean
+  126  make week3
+  127  bin/test-se -w 3 -v 3
+  128  make clean
+  129  make week3
+  130  bin/test-se -w 3 -v 3
+  131  make clean
+  132  make week3
+  133  bin/test-se -w 3 -v 3
+  134  clear
+  135  make clean
+  136  make week3
+  137  make clean
+  138  make week3
+  139  make clean
+  140  make week3
+  141  make clean
+  142  make week3
+  143  bin/test-se -w 3 -v 3
+  144  make clean
+  145  make week3
+  146  make clean
+  147  make week3
+  148  bin/test-se -w 3 -v 3
+  149  make clean
+  150  make week3
+  151  bin/test-se -w 3 -v 3
+  152  gdb bin/test-se
+  153  clear
+  154  make clean
+  155  make clean
+  156  make week3
+  157  bin/test-se -w 3 -v 3
+  158  make clean
+  159  make week3
+  160  bin/test-se -w 3 -v 3
+  161  make clean
+  162  make week3
+  163  bin/test-se -w 3 -v 3
+  164  make clean
+  165  make week3
+  166  bin/test-se -w 3 -v 3
+  167  make clean
+  168  make week3
+  169  bin/test-se -w 3
+  170  make clean
+  171  make week3
+  172  bin/test-se -w 3 -v 3
+  173  make clean
+  174  make week2
+  175  bin/test-se
+  176  make clean
+  177  make clean
+  178  make test
+  179  bin/test-hw
+  180  make clean
+  181  make week3
+  182  clear
+  183  make week3
+  184  bin/test-se -w 3 -v 3
+  185  make clean
+  186  make week2
+  187  bin/test-se -v 3
+  188  make clean
+  189  make week3
+  190  bin/test-se -w 3 -v 3
+  191  make clean
+  192  make week3
+  193  bin/test-se -w 3 -v 3
+  194  make clean
+  195  make week3
+  196  bin/test-se -w 3 -v 3
+  197  make clean
+  198  make week3
+  199  bin/test-se -w 3 -v 3
+  200  make clean
+  201  make week3
+  202  bin/test-se -w 3 -v 3
+  203  make clean
+  204  make week3
+  205  bin/test-se -v 3 -w 3
+  206  make clean
+  207  make week3
+  208  bin/test-se -w 3 -v 3
+  209  make clean
+  210  make week3
+  211  bin/test-se -w 3 -v 3
+  212  make clean
+  213  make week3
+  214  bin/test-se -w 3 -v 3
+  215  make clean
+  216  make week3
+  217  bin/test-se -w 3 -v 3
+  218  make clean
+  219  make week3
+  220  bin/test-se -w 3 -v 3
+  221  make clean
+  222  make week3
+  223  bin/test-se -w 3 -v 3
+  224  make clean
+  225  make week3
+  226  bin/test-se -v 3 -w 3
+  227  make clean
+  228  make week3
+  229  bin/test-se -w 3
+  230  make clean
+  231  make week3
+  232  bin/test-se -w 3
+  233  make clean
+  234  make week3
+  235  bin/test-se -w 3 -v 3
+  236  make clean
+  237  make week3
+  238  bin/test-se -w 3 -v 3
+  239  make week3
+  240  make clean
+  241  make week3
+  242  bin/test-se -w 3
+  243  make clean
+  244  make clean
+  245  clear
+  246  make clean
+  247  make week3
+  248  bin/test-se -w 3 -v 3
+  249  make clean
+  250  make week3
+  251  bin/test-se -w 3
+  252  make clean
+  253  clear
+  254  make week3
+  255  bin/test-se -w 3 -v 3
+  256  make clean
+  257  make week3
+  258  bin/test-se -w 3 -v 3
+  259  make clean
+  260  make week2
+  261  bin/test-se
+  262  clear
+  263  make clean
+  264  make week3
+  265  bin/test-se -w 3 -v 3
+  266  make clean
+  267  make week3
+  268  bin/test-se -w 3 -v 3
+  269  clear
+  270  make clean
+  271  make week3
+  272  bin/test-se -w 3 -v 3
+  273  make clean
+  274  make week3
+  275  bin/test-se -w 3 -v 3
+  276  make clean
+  277  make week3
+  278  bin/test-se -w 3 -v 3
+  279  make clean
+  280  make week3
+  281  bin/test-se -w 3 -v 3
+  282  make clean
+  283  clear
+  284  make week3
+  285  bin/test-se -w 3 -v 3
+  286  make clean
+  287  make week3
+  288  bin/test-se -w 3 -v 3
+  289  make clean
+  290  make week3
+  291  bin/test-se -w 3 -v 3
+  292  make clean
+  293  make week3
+  294  bin/test-se -w 3 -v 3
+  295  make clean
+  296  make week3
+  297  bin/test-se -w 3 -v 3
+  298  make clean
+  299  make week3
+  300  bin/test-se -w 3 -v 3
+  301  make clean
+  302  make week3
+  303  bin/test-se -w 3 -v 3
+  304  make clean
+  305  make week3
+  306  bin/test-se -w 3 -v 3
+  307  clear
+  308  make clean
+  309  make week3
+  310  bin/test-se -w 3 -v 3
+  311  make cleaen
+  312  make clean
+  313  make week3
+  314  bin/test-se -w 3 -v 3
+  315  make clean
+  316  clear
+  317  make week3
+  318  make clean
+  319  make clean
+  320  clear
+  321  make week2
+  322  bin/test-se -v 3
+  323  make clean
+  324  clear
+  325  make week3
+  326  bin/test-se -w 3 -v 3
+  327  make clean
+  328  make week3
+  329  bin/test-se -w 3 -v 3
+  330  make clean
+  331  make week3
+  332  bin/test-se -w 3 -v 1
+  333  make clean
+  334  make week3
+  335  bin/test-se -w 3 -v 1
+  336  bin/se-ref-wk3 -i testcases/alu/hazard/movk -v 2 | head -n 30
+  337  bin/se-ref-wk3 -i testcases/alu/hazard/movk_lsl -v 2 | head -n 800
+  338  bin/test-se -w 3 -i testcases/alu/hazard/movk_lsl -v 2 | head -n 800
+  339  bin/se -i testcases/alu/hazard/movk_lsl -v 2 | head -n 800
+  340  make clean
+  341  make week3
+  342  bin/test-se -w 3 -v 1
+  343  make clean
+  344  make week3
+  345  bin/test-se -w 3 -v 1
+  346  make clean
+  347  make week3
+  348  bin/test-se -w 3 -v 1
+  349  clear
+  350  make claen
+  351  make cclean
+  352  clear
+  353  make clean
+  354  clear
+  355  make week3
+  356  clear
+  357  bin/se-ref-wk3 -i testcases/alu/hazard/shift -v 2 | head -n 800
+  358  bin/se-ref-wk3 -i testcases/alu/hazard/shift -v 2 | head -n 1200
+  359  bin/se-ref-wk3 -i testcases/alu/hazard/shift -v 2 | head -n 5000
+  360  bin/se-ref-wk3 -i testcases/alu/hazard/shift -v 2 | head -n 50000
+  361  bin/test-se -w 3 -v 1
+  362  bin/se -i testcases/alu/hazard/shift -v 2 | head -n 50000
+  363  make clean
+  364  make week3
+  365  bin/test-se -w 3 -v 1
+  366  make clean
+  367  make week3
+  368  bin/test-se -w 3 -v 1
+  369  bin/se -i testcases/branch/hazard/ret_hazard -v 2 | head -n 50000
+  370  bin/se-ref-wk3 -i testcases/branch/hazard/ret_hazard -v 2 | head -n 50000
+  371  make clean
+  372  make week3
+  373  bin/test-se -w 3 -v 1
+  374  bin/se-ref-wk3 -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  375  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  376  bin/se-ref-wk3 -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  377  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  378  bin/se-ref-wk3 -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  379  make clean
+  380  make week3
+  381  bin/test-se -w 3 -v 1
+  382  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  383  make clean
+  384  make week3
+  385  bin/test-se -w 3 -v 1
+  386  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  387  make clean
+  388  clear
+  389  make week3
+  390  bin/test-se -w 3 -v 1
+  391  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  392  bin/se-ref-wk3 -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  393  make clean
+  394  make week3
+  395  bin/test-se -w 3 -v 1
+  396  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  397  make clean
+  398  make week3
+  399  bin/test-se -w 3 -v 1
+  400  clear
+  401  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  402  bin/se-ref-wk3 -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  403  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  404  bin/se-ref-wk3 -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  405  make clean
+  406  make week3
+  407  bin/test-se -w 3 -v 1
+  408  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000
+  409  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 5000000
+  410  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 500000000000
+  411  bin/test-se -w 3 -v 1
+  412  bin/se -i testcases/applications/hard/bin_search -v 2 | head -n 500000000000
+  413  bin/se-ref-wk3 -i testcases/applications/hard/bin_search -v 2 | head -n 500000000000
+  414  make clean
+  415  make week3
+  416  bin/test-se -w 3 -v 1
+  417  make clean
+  418  make week3
+  419  bin/test-se -w 3 -v 1
+  420  clear
+  421  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 500000000000
+  422  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 99999999999999999999999999999999999
+  423  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 9999999999999999999999999999
+  424  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 9999999999999999999999999
+  425  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 99999999999999
+  426  bin/se-ref-wk3 -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000000
+  427  make clean
+  428  clear
+  429  bin/test-se -w 3 -v 1
+  430  bin/se-ref-wk3 -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000000
+  431  bin/se-ref-wk3 -i testcases/applications/hard/knapsack_simple -v 2 | head -n 50000000 > mine.txt
+  432  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 99999999999999 > actualMine.txt
+  433  make clean
+  434  make week3
+  435  bin/test-se -w 3 -v 1
+  436  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 99999999999999 > actualMine.txt
+  437  make clean
+  438  make week3
+  439  bin/test-se -w 3 -v 1
+  440  bin/se -i testcases/applications/hard/knapsack_simple -v 2 | head -n 99999999999999 > actualMine.txt
+  441  make clean
+  442  make week3
+  443  bin/test-se -w 3 -v 1
+  444  git add .
+  445  git commit -m "Finished Week 3"
+  446  git push
+  447  make happy
+  448  make grumpy
+  449  make happy
+  450  make doc
+  451  gdb bin/second_trie
+  452  make happy
+  453  make grumpy
+  454  make happy
+  455  make doc
+  456  gdb bin/second_trie
+  457  make happy
+  458  make grumpy
+  459  history > shell_logs.txt
+  460  git add .
+  461  git commit -m "Finished"
+  462  git push
+  463  cd ..
+  464  rm -rf mastery-version-gamma
+  465  git clone git@github.com:MatthewJ02/mastery-version-gamma.git
+  466  exit
+  467  git clone git@github.com:MatthewJ02/mastery-version-alpha.git
+  468  make cobra
+  469  make nani
+  470  make conra
+  471  make cobra
+  472  make lilo
+  473  gdb bin/second_trie
+  474  make cobra
+  475  make nani
+  476  history > shell_logs.txt
+  477  git add .
+  478  git commit -m "Finished"
+  479  git push
+  480  git status
+  481  cd ..
+  482  rm -rf mastery-version-alpha
+  483  git clone git@github.com:MatthewJ02/mastery-version-beta.git
+  484  make nalo
+  485  make tamatoa
+  486  make nalo
+  487  make maui
+  488  gdb bin/second_trie
+  489  make nalo
+  490  make tamatoa
+  491  history > shell_logs.txt
+  492  git add .
+  493  git commit -m "Finished"
+  494  git push
+  495  cd ..
+  496  rm -rf mastery-version-beta
+  497  touch .gdbinit
+  498  echo "set history save on" > .gdbinit
+  499  cat .gdbinit
+  500  git clone git@github.com:MatthewJ02/mastery-version-a.git
+  501  make clean
+  502  make check
+  503  make clean
+  504  make debug
+  505  gdb mini_ci
+  506  make clean
+  507  make check
+  508  gdb mini_ci
+  509  make clean
+  510  make debug
+  511  gdb mini_ci
+  512  make clean
+  513  make check
+  514  make clean
+  515  make check
+  516  clear
+  517  make clean
+  518  make check
+  519  make clean
+  520  make check
+  521  history > shell_logs.txt

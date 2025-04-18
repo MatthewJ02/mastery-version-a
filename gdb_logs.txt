@@ -1,0 +1,9 @@
+   3  p *new_token
+    4  p val_a
+    5  p *val_a
+    6  p val_b
+    7  q
+    8  run testcases/err_ops2.s
+    9  q
+   10  run testcases/err_ops2.s
+   11  q
